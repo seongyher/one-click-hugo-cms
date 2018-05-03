@@ -7,16 +7,15 @@ values:
     text: i like grapes
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
-    text: |
-      koffee
+    text: these are not grapes
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
-    text: hello
+    text: wine
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
     text: i love cofee
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
-    text: asdfasdf
+    text: coffee loving students to sell coffee and grapes to
 ---
 
