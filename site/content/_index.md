@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: hi
+title: Great coffee with consciousness
+subtitle: 'it''s self aware coffee (living and thinking, it can feel you drink it)'
 image: /img/about-direct-sourcing.jpg
 blurb:
   heading: Why Kaldi?
