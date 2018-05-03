@@ -44,7 +44,7 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the drinker who likes to enjoy 1-2 pictures per day.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
