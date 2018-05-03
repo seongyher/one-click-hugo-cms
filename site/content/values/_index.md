@@ -1,11 +1,10 @@
 ---
-title: Values
-image: /img/about-jumbotron.jpg
+title: mmmmmmmmmmmmmm
+image: /img/about-shade-grown.jpg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
-    text: |
-      hehe
+    text: i like grapes
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: |
